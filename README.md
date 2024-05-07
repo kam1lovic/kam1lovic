@@ -1,5 +1,4 @@
-
-
+Hi, My name is Muhammad. I'm Python Backend developer from Uzbekistan
 
 
 ## 🌐 Socials:
