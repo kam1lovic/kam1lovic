@@ -1,5 +1,12 @@
 # 👋 Hi, I'm Muhammad!
 ### 🐍 Python Backend Developer from Uzbekistan
+## 🚀 Developer's Mindset:
+
+---
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+world!;I+am+a+Python+Developer!;Welcome+to+my+profile!&center=true&width=500&height=50)
+
+---
 
 I specialize in backend development with Python, and I have a passion for building scalable, efficient, and robust applications.
 
@@ -36,31 +43,6 @@ I specialize in backend development with Python, and I have a passion for buildi
 
 ## 🧮 Profile Views:
 ![Profile Views](https://komarev.com/ghpvc/?username=kam1lovic&color=brightgreen)
-
----
-
-## 🏞 GitHub Skyline:
-[![GitHub Skyline](https://skyline.github.com/kam1lovic/2023)](https://skyline.github.com/kam1lovic/2023)
-
----
-
-## 📜 Famous Quote:
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=default)
-
----
-
-## 🐍 Contribution Snake:
-![snake gif](https://github.com/kam1lovic/kam1lovic/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## ⏳ WakaTime Coding Stats:
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kam1lovic&theme=dark)
-
----
-
-## 🚀 Developer's Mindset:
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+world!;I+am+a+Python+Developer!;Welcome+to+my+profile!&center=true&width=500&height=50)
 
 ---
 
