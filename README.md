@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Muhammad!
 ### 🐍 Python Backend Developer from Uzbekistan
-## 🚀 Developer's Mindset:
-
----
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+world!;I+am+a+Python+Developer!;Welcome+to+my+profile!&center=true&width=500&height=50)
 
