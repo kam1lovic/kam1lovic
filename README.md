@@ -7,8 +7,7 @@ I specialize in backend development with Python, and I have a passion for buildi
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kam1lovic)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ccpy2024)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kam1lovic)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23121011.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](linkedin.com/in/muhammad-anvarov-315770304/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23121011.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin.com/in/muhammad-anvarov-315770304/)
 
 ---
 
@@ -32,6 +31,36 @@ I specialize in backend development with Python, and I have a passion for buildi
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Oauth2](https://img.shields.io/badge/Oauth2-%230072C6.svg?style=for-the-badge&logo=Oauth&logoColor=white)
+
+---
+
+## 🧮 Profile Views:
+![Profile Views](https://komarev.com/ghpvc/?username=kam1lovic&color=brightgreen)
+
+---
+
+## 🏞 GitHub Skyline:
+[![GitHub Skyline](https://skyline.github.com/kam1lovic/2023)](https://skyline.github.com/kam1lovic/2023)
+
+---
+
+## 📜 Famous Quote:
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=default)
+
+---
+
+## 🐍 Contribution Snake:
+![snake gif](https://github.com/kam1lovic/kam1lovic/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## ⏳ WakaTime Coding Stats:
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kam1lovic&theme=dark)
+
+---
+
+## 🚀 Developer's Mindset:
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+world!;I+am+a+Python+Developer!;Welcome+to+my+profile!&center=true&width=500&height=50)
 
 ---
 
