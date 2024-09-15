@@ -7,6 +7,8 @@ I specialize in backend development with Python, and I have a passion for buildi
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kam1lovic)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ccpy2024)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kam1lovic)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23121011.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](linkedin.com/in/muhammad-anvarov-315770304/)
+
 
 ---
 
