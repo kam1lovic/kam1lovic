@@ -31,6 +31,7 @@ I specialize in backend development with Python, and I have a passion for buildi
 ![Aiogram](https://img.shields.io/badge/Aiogram-%230072C6.svg?style=for-the-badge&logo=telegram&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Oauth2](https://img.shields.io/badge/Oauth2-%230072C6.svg?style=for-the-badge&logo=Oauth&logoColor=white)
 
 ---
 
